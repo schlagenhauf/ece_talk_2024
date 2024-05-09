@@ -71,6 +71,10 @@ https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
 
 ----
 
+### Radical simplicity
+
+----
+
 ### Throwawayability
 
 Prototypes should be throwawayable with no cost
@@ -86,6 +90,8 @@ Throwing away platform modules should be easy
 * focus is crucial
 * burnout and stress
 
+
+---
 
 ### Resources
 
