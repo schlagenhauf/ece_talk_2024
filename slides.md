@@ -1,21 +1,25 @@
 ---
 mermaid:
   themeVariables:
-    lineColor: '#fff'
 ---
 
-# Exploration vs Stabilization
+### ECE Summer '24
+# Exploration
+vs
+# Stabilization
+### in startups
 
-ECE 2024
-Jonas Schlagenhauf
+
+<small>Jonas Schlagenhauf</small>
 
 ---
 
 ### Outline
 
-* Why startups fail?
-* Why a startup?
-* Exploration vs Stabilization
+* Motivations to found
+* Why startups fail
+* **Exploration vs Stabilization**
+* Bits & Pieces
 
 Note:
 Telling what I didn't read anywhere
@@ -24,10 +28,16 @@ Telling what I didn't read anywhere
 
 ### About Me
 
-* 2010-2017: B.Sc & M.Sc Embedded Systems Engineering
-* 2017-2021: Kiteswarms GmbH - Founding Member - 20P
-* 2022: Infrafon GmbH - CEO - 4P
-* 2023-now: B.Braun New Ventures GmbH - Robotics Software Architect - 55P
+* B.Sc & M.Sc Embedded System Engineering<br>
+  <small>`2010-2016`</small>
+* Kiteswarms - Founding Member, CTO<br>
+  <small> `2017-2021`, 💰 Business Angel, 👤22 </small>
+* Goodmotion - Consultant<br>
+  <small>`2021`, 💰 Public Funds, 👤4 </small>
+* Infrafon - CEO<br>
+  <small>`2022`, 💰 Business Angel, 👤4</small>
+* B.Braun New Ventures - Robotics Engineer<br>
+  <small>`2023-now`, 💰 Corporate Startup, 👤55</small>
 
 ---
 
@@ -39,20 +49,22 @@ Telling what I didn't read anywhere
 
 ---
 
-### Why do startups fail?
+#### Why do startups fail?
 
 ```mermaid
-pie title Reasons
+pie title
   "Product-Market Fit" : 34
-  "Marketing Problems" : 22
-  "Team Problems" : 18
-  "Finance Problems" : 16
-  "Tech Problems" : 6
-  "Operations Problems" : 2
-  "Legal Problems" : 2
+  "Marketing" : 22
+  "Team" : 18
+  "Finance" : 16
+  "Tech" : 6
+  "Operations" : 2
+  "Legal" : 2
 ```
 
+<small><small>
 https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
+</small></small>
 
 ---
 
@@ -60,7 +72,7 @@ https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
 
 * Startups are fragile -> reduce risk
 * Risk <=> uncertainty
-* Build stuff, throw it at the user, learn, reduce uncertainty
+* So: Build stuff, throw it at the user, learn, reduce uncertainty
 * But: Only bastel creates its own risk, worst case: complete stand still
 * Technological debt
 
@@ -108,6 +120,7 @@ Also applies to infrastructure
 ### Random advice
 
 * Trust your team
+* Your idea is not as valuable as you think
 * You will need senior people
 * Work on your social skills
 * Implement a personal task system (e.g. GTD)
