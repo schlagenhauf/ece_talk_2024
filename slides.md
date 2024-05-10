@@ -16,13 +16,14 @@ vs
 
 ### Outline
 
+> "Stuff that no one told me"
+
 * Motivations to found
 * Why startups fail
 * **Exploration vs Stabilization**
 * Bits & Pieces
 
-Note:
-Telling what I didn't read anywhere
+Note: Focus is more on the org, long-term
 
 ---
 
@@ -33,7 +34,7 @@ Telling what I didn't read anywhere
 * Kiteswarms - Founding Member, CTO<br>
   <small> `2017-2021`, 💰 Business Angel, 👤22 </small>
 * Goodmotion - Consultant<br>
-  <small>`2021`, 💰 Public Funds, 👤4 </small>
+  <small>`2021`, 💰 Funding Programs & Competitions, 👤4 </small>
 * Infrafon - CEO<br>
   <small>`2022`, 💰 Business Angel, 👤4</small>
 * B.Braun New Ventures - Robotics Engineer<br>
@@ -41,11 +42,13 @@ Telling what I didn't read anywhere
 
 ---
 
-### Reasons to start a startup
+### Reasons to found a startup
 
 * See your idea get big
-* Self actualization
+* **Self actualization**
 * Money (9/10 startups fail, 1/100 unicorn)
+
+Note: self-actualization is a powerfull driver
 
 ---
 
@@ -71,32 +74,38 @@ https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
 ### Exploration vs Stabilization
 
 * Startups are fragile -> reduce risk
-* Risk <=> uncertainty
+* Risk = uncertainty
 * So: Build stuff, throw it at the user, learn, reduce uncertainty
-* But: Only bastel creates its own risk, worst case: complete stand still
-* Technological debt
+* But: Only prototyping creates its own risk: Technological debt
+* Worst case: complete stand-still
+
+Note: Engineers are susceptible to overengineering
 
 ----
 
-### Plot: pace
+### Plot: line to completion
+
+Note: mention simplification, environment may change, pivot
 
 ----
 
-### Be clear - prototype or platform?
+### Prototype or Product?
 
-* Either prototype or build platform
+* Get clear on expectations!
+* Either you prototype or you build components of your product
 * Prototype: Take all the shortcuts you can to achieve your learning
-* Platform: Do it proper the first time. It only gets worse.
+* Product: Do it proper the first time. It only gets worse.
+* Don't let your prototype become your product
 * Be rigorous
 
 ----
 
-### About pace
+### Adjust your pace often
 
-* Find the right pace
 * Be sensible to inefficiencies
 * Too rigid -> loosen structures
 * Too chaotic -> find the most central element, nail it down
+* Don't overshoot
 
 ----
 
@@ -111,19 +120,22 @@ https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
 
 ### Throwawayability
 
-Prototypes should be throwawayable with no cost
-Throwing away platform modules should be easy
-Also applies to infrastructure
+* Prototypes should be discardable with no cost
+* Throwing away product components should be easy
+* Also applies to infrastructure
+
+Hint: generally good design advice. forces clean interfaces, thinking ahead
 
 ---
 
-### Random advice
+### Unsorted advice
 
+* Use git
 * Trust your team
 * Your idea is not as valuable as you think
 * You will need senior people
 * Work on your social skills
-* Implement a personal task system (e.g. GTD)
+* Use a personal task management system (e.g. GTD)
 * Focus is crucial
 * Burnout is real
 
@@ -136,7 +148,7 @@ Also applies to infrastructure
 * Extreme Programming
 * The unofficial project manager
 * GTD
-* Paul Graham
+* Paul Graham's Essays
 
 ---
 
