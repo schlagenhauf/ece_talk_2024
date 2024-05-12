@@ -24,6 +24,7 @@ vs
 * Bits & Pieces
 
 Note: Focus is more on the org, long-term
+define exploration and stabilization
 
 ---
 
@@ -124,7 +125,7 @@ Note: mention simplification, environment may change, pivot
 * Throwing away product components should be easy
 * Also applies to infrastructure
 
-Hint: generally good design advice. forces clean interfaces, thinking ahead
+Note: generally good design advice. forces clean interfaces, thinking ahead
 
 ---
 
