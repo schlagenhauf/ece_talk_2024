@@ -6,18 +6,15 @@ mermaid:
 <!-- upload to github -->
 <!-- generate pdf -->
 
-<!-- .slide: data-background="./media/title_bg.jpg" -->
+<!-- .slide: data-background="./media/title_bg.png" -->
 
+### Balancing
 # Exploration
 vs
 # Stabilization
-### in startups
+### in tech startups
 
-<!-- background image -->
-
-
-<small>Jonas Schlagenhauf - 2024-05-13</small><br>
-<small>[github.com/schlagenhauf/ece_talk_2024](https://github.com/schlagenhauf/ece_talk_2024)
+<small><small>Jonas Schlagenhauf - 2024-05-13 - [github.com/schlagenhauf/ece_talk_2024](https://github.com/schlagenhauf/ece_talk_2024)</small></small>
 
 ---
 
@@ -26,10 +23,10 @@ vs
 What is the dilemma?<br>
 Why exploration vs stabilization?
 
-Note: exploration is required to know what we can build and what users want
-stabilization is required for a product
-its a problem prominent with developers
-i cant give an easy solution myself
+Note: exploration: to know what to build, what users want<br>
+stabilization is for finished product<br>
+overengineering<br>
+no easy answer
 
 ---
 
@@ -42,8 +39,7 @@ i cant give an easy solution myself
 * 💡 **Exploration vs Stabilization**
 * 🗃 Random advice
 
-Note: Talk is about inner workings of organization, long-term
-explain exploration and stabilization
+Note: Talk is about inner workings of organization<br>
 
 ---
 
@@ -79,7 +75,7 @@ if money is your motivation, then you can do a lot more bullshit
 
 #### Why do startups fail?
 
-```mermaid
+<!--```mermaid
 pie title
   "Product-Market Fit ❗" : 34
   "Marketing" : 22
@@ -88,7 +84,10 @@ pie title
   "Tech ❗" : 6
   "Operations" : 2
   "Legal" : 2
-```
+```-->
+
+
+<img src='media/pie.svg' width=60%>
 
 <small><small>
 https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
@@ -114,7 +113,10 @@ Note: explain again exploration, stabilization
 
 ----
 
-### Plot: line to completion
+### Stabilization over time
+<small>(simplified)</small>
+
+<img src='media/plot.png'>
 
 Note: mention simplification, environment may change, pivot
 
@@ -132,7 +134,6 @@ Note: mention simplification, environment may change, pivot
   > <small>"Let's not have 5 custom logging mechanisms"</small>
 * Try not to overshoot, make small adjustments
 
-
 ----
 
 ### Prototype or Product?
@@ -144,6 +145,7 @@ Note: mention simplification, environment may change, pivot
 * Don't let your prototype become your product
 * Be rigorous
 
+Note: adjustments are reactions, this is proactive
 
 ----
 
@@ -173,7 +175,7 @@ generally good design advice. forces clean interfaces, thinking ahead
 ### Unsorted advice
 
 * ~~💡~~ Your idea is not as valuable as you think
-* 🫂 Trust your team
+* 🫂 Learn to trust your team
 * 👴 You will need senior people
 * ❤️ Work on your social skills
 * 📋 Use a personal task management system
@@ -184,21 +186,16 @@ generally good design advice. forces clean interfaces, thinking ahead
 
 ### Further reading
 
-* Lean Startup<br><small>Eric Ries, about reducing uncertainty</small>
-* Reinventing Organizations<br><small>Frederic Laloux, about utopic ways of working</small>
-* Extreme Programming<br><small>realistic agile software development</small>
-* The Unofficial Project Manager<br><small>Kory Kogon et al., about classic project management</small>
-* Getting Things Done<br><small>David Allen, about personal task management</small>
-* Paul Graham's Essays<br><small>Co-Founder of YCombinator, best startup advice out there</small>
+<small>
+Lean Startup<br><small>Eric Ries, about reducing uncertainty</small><br>
+Reinventing Organizations<br><small>Frederic Laloux, about utopic ways of working</small><br>
+Extreme Programming<br><small>realistic agile software development</small><br>
+The Unofficial Project Manager<br><small>Kory Kogon et al., about classic project management</small><br>
+Getting Things Done<br><small>David Allen, about personal task management</small><br>
+Paul Graham's Essays<br><small>Co-Founder of YCombinator, best startup advice out there</small>
+</small>
 
 ---
 
 ### Happy founding
 
----
-
-### More?
-
----
-
-### About trust
