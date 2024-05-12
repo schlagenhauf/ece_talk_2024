@@ -21,6 +21,18 @@ vs
 
 ---
 
+# Preview
+
+What is the dilemma?<br>
+Why exploration vs stabilization?
+
+Note: exploration is required to know what we can build and what users want
+stabilization is required for a product
+its a problem prominent with developers
+i cant give an easy solution myself
+
+---
+
 ### Outline
 
 > "Stuff that no one told me"
@@ -47,6 +59,8 @@ explain exploration and stabilization
   <small>`2022`, 💰 Business Angel, 👤4</small>
 * B.Braun New Ventures - Robotics Engineer<br>
   <small>`2023-now`, 💰 Corporate Startup, 👤55</small>
+
+Note: flat hierarchies
 
 ----
 
@@ -81,23 +95,22 @@ https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
 </small></small>
 
 Note: numbers are not reliable, more of a hint
-PMF, team and tech are most impacted by my topic
+org dev is not on the chart, but affects PMF, team and tech
 <!-- pre-render image -->
 
 ---
 
 ### Exploration vs Stabilization
 
-* Startups are fragile -> reduce risk
-* Risk = uncertainty
-* So: Build stuff, throw it at the user, learn, reduce uncertainty
-* But: Only prototyping creates its own risk: Technological debt
-* Worst case: complete stand-still
+* Startups are fragile<br>
+→ You need to reduce risk<br>
+→ Risk is equivalent to uncertainty<br>
+→ Build stuff, throw it at the user, learn, reduce uncertainty
+* But: Only prototyping creates its own risk<br>
+→ No common basis, technological debt<br>
+→ Worst case: complete stand-still
 
-Note: Engineers are susceptible to overengineering
-
-<!-- explain again terms -->
-<!-- improve formatting -->
+Note: explain again exploration, stabilization
 
 ----
 
@@ -109,15 +122,16 @@ Note: mention simplification, environment may change, pivot
 
 ----
 
-### Adjust your pace often
+### Adjust when necessary
 
 * Be sensible to inefficiencies
-* Too rigid -> loosen structures
-* Too chaotic -> find the most central element, nail it down
-* Don't overshoot
+* Too rigid → loosen structures<br>
+  > <small>"Ditch custom PCB iterations, back to Arduino"</small><br>
+  <small>"Are scalable and reproducible Kubernetes deployments really required already?"</small>
+* Too chaotic → find the most central element, nail it down<br>
+  > <small>"Let's not have 5 custom logging mechanisms"</small>
+* Try not to overshoot, make small adjustments
 
-<!-- improve formatting -->
-<!-- small plot in corner? -->
 
 ----
 
@@ -131,15 +145,13 @@ Note: mention simplification, environment may change, pivot
 * Be rigorous
 
 
-<!-- improve formatting -->
-
 ----
 
-### Radical minimalism
+### Radical Minimalism
 * Single sources of truth
-* Tools: integration is key
+* Maximize integration among tools
 * Keep it simple as long as possible (KISS & YAGNI)
-* Plain text is king
+* Plain text wherever you can
 * Ulysses pact: tie yourself to the mast
 
 <!-- improve formatting -->
@@ -149,38 +161,35 @@ Note: mention simplification, environment may change, pivot
 ### Throwawayability
 
 * Prototypes should be discardable with no cost
-* Throwing away product components should be easy
+* Throwing away product components should be quite easy
 * Also (and especially) applies to infrastructure
 
-Note: generally good design advice. forces clean interfaces, thinking ahead
+Note: metric i set up at Kiteswarms
+goes a bit against stabilization
+generally good design advice. forces clean interfaces, thinking ahead
 
 ---
 
 ### Unsorted advice
 
-* Use git
-* Trust your team
-* Your idea is not as valuable as you think
-* You will need senior people
-* Work on your social skills
-* Use a personal task management system (e.g. GTD)
-* Focus is crucial
-* Burnout is real
-
-<!-- add icons -->
+* ~~💡~~ Your idea is not as valuable as you think
+* 🫂 Trust your team
+* 👴 You will need senior people
+* ❤️ Work on your social skills
+* 📋 Use a personal task management system
+* 🎯 Focus is crucial
+* 💥 Burnout is real
 
 ----
 
 ### Further reading
 
-* Lean startup
-* Reinventing organizations
-* Extreme Programming
-* The unofficial project manager
-* GTD
-* Paul Graham's Essays
-
-<!-- add links-->
+* Lean Startup<br><small>Eric Ries, about reducing uncertainty</small>
+* Reinventing Organizations<br><small>Frederic Laloux, about utopic ways of working</small>
+* Extreme Programming<br><small>realistic agile software development</small>
+* The Unofficial Project Manager<br><small>Kory Kogon et al., about classic project management</small>
+* Getting Things Done<br><small>David Allen, about personal task management</small>
+* Paul Graham's Essays<br><small>Co-Founder of YCombinator, best startup advice out there</small>
 
 ---
 
