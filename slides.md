@@ -2,12 +2,19 @@
 mermaid:
   themeVariables:
 ---
+<!-- copy to backup stick -->
+<!-- upload to github -->
+<!-- generate pdf -->
 
 ### ECE Summer '24
 # Exploration
 vs
 # Stabilization
 ### in startups
+
+<!-- background image -->
+<!-- check lecture name -->
+<!-- put github link -->
 
 
 <small>Jonas Schlagenhauf</small>
@@ -18,13 +25,17 @@ vs
 
 > "Stuff that no one told me"
 
-* Motivations to found
+* Motivations to found a startup
 * Why startups fail
 * **Exploration vs Stabilization**
-* Bits & Pieces
+* Random advice
 
-Note: Focus is more on the org, long-term
-define exploration and stabilization
+Note: Talk is about inner workings of organization, long-term
+explain exploration and stabilization
+
+
+<!-- explain expl, stabl -->
+<!-- icons -->
 
 ---
 
@@ -34,7 +45,7 @@ define exploration and stabilization
   <small>`2010-2016`</small>
 * Kiteswarms - Founding Member, CTO<br>
   <small> `2017-2021`, 💰 Business Angel, 👤22 </small>
-* Goodmotion - Consultant<br>
+* Goodmotion - "Consultant"<br>
   <small>`2021`, 💰 Funding Programs & Competitions, 👤4 </small>
 * Infrafon - CEO<br>
   <small>`2022`, 💰 Business Angel, 👤4</small>
@@ -45,11 +56,16 @@ define exploration and stabilization
 
 ### Reasons to found a startup
 
+* Avoid entering the work force after graduation
+* Money (9/10 startups fail, 1/100 unicorn)
 * See your idea get big
 * **Self actualization**
-* Money (9/10 startups fail, 1/100 unicorn)
 
 Note: self-actualization is a powerfull driver
+
+<!-- why is that important for my topic? -->
+<!-- if money is your motivation, then you can do a lot more bullshit -->
+<!-- highlight connection -->
 
 ---
 
@@ -70,6 +86,9 @@ pie title
 https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
 </small></small>
 
+<!-- pre-render image -->
+<!-- highlight connection to topic -->
+
 ---
 
 ### Exploration vs Stabilization
@@ -82,22 +101,16 @@ https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
 
 Note: Engineers are susceptible to overengineering
 
+<!-- explain again terms -->
+<!-- improve formatting -->
+
 ----
 
 ### Plot: line to completion
 
 Note: mention simplification, environment may change, pivot
 
-----
-
-### Prototype or Product?
-
-* Get clear on expectations!
-* Either you prototype or you build components of your product
-* Prototype: Take all the shortcuts you can to achieve your learning
-* Product: Do it proper the first time. It only gets worse.
-* Don't let your prototype become your product
-* Be rigorous
+<!-- create plot -->
 
 ----
 
@@ -108,14 +121,33 @@ Note: mention simplification, environment may change, pivot
 * Too chaotic -> find the most central element, nail it down
 * Don't overshoot
 
+<!-- improve formatting -->
+<!-- small plot in corner? -->
+
+----
+
+### Prototype or Product?
+
+* Get clear on expectations!
+* Either you prototype or you build components of your product
+  <br> → Prototype: Take all the shortcuts you can to achieve your learning
+  <br> → Product: Do it proper the first time. It only gets worse.
+* Don't let your prototype become your product
+* Be rigorous
+
+
+<!-- improve formatting -->
+
 ----
 
 ### Radical minimalism
 * Single sources of truth
 * Tools: integration is key
-* Keep it simple as long as possible
+* Keep it simple as long as possible (KISS & YAGNI)
 * Plain text is king
 * Ulysses pact: tie yourself to the mast
+
+<!-- improve formatting -->
 
 ----
 
@@ -123,7 +155,7 @@ Note: mention simplification, environment may change, pivot
 
 * Prototypes should be discardable with no cost
 * Throwing away product components should be easy
-* Also applies to infrastructure
+* Also (and especially) applies to infrastructure
 
 Note: generally good design advice. forces clean interfaces, thinking ahead
 
@@ -140,6 +172,8 @@ Note: generally good design advice. forces clean interfaces, thinking ahead
 * Focus is crucial
 * Burnout is real
 
+<!-- add icons -->
+
 ---
 
 ### Further reading
@@ -151,9 +185,8 @@ Note: generally good design advice. forces clean interfaces, thinking ahead
 * GTD
 * Paul Graham's Essays
 
+<!-- add links-->
+
 ---
 
-### References
-
-* link1
-* link2
+### Happy founding
