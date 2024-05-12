@@ -6,18 +6,18 @@ mermaid:
 <!-- upload to github -->
 <!-- generate pdf -->
 
-### ECE Summer '24
+<!-- .slide: data-background="./media/title_bg.jpg" -->
+
 # Exploration
 vs
 # Stabilization
 ### in startups
 
 <!-- background image -->
-<!-- check lecture name -->
-<!-- put github link -->
 
 
-<small>Jonas Schlagenhauf</small>
+<small>Jonas Schlagenhauf - 2024-05-13</small><br>
+<small>[github.com/schlagenhauf/ece_talk_2024](https://github.com/schlagenhauf/ece_talk_2024)
 
 ---
 
@@ -25,17 +25,13 @@ vs
 
 > "Stuff that no one told me"
 
-* Motivations to found a startup
-* Why startups fail
-* **Exploration vs Stabilization**
-* Random advice
+* 🚀 Motivations to found a startup
+* 💀 Why startups fail
+* 💡 **Exploration vs Stabilization**
+* 🗃 Random advice
 
 Note: Talk is about inner workings of organization, long-term
 explain exploration and stabilization
-
-
-<!-- explain expl, stabl -->
-<!-- icons -->
 
 ---
 
@@ -52,7 +48,7 @@ explain exploration and stabilization
 * B.Braun New Ventures - Robotics Engineer<br>
   <small>`2023-now`, 💰 Corporate Startup, 👤55</small>
 
----
+----
 
 ### Reasons to found a startup
 
@@ -62,22 +58,20 @@ explain exploration and stabilization
 * **Self actualization**
 
 Note: self-actualization is a powerfull driver
+if money or no real drive, my advice is wrong
+if money is your motivation, then you can do a lot more bullshit
 
-<!-- why is that important for my topic? -->
-<!-- if money is your motivation, then you can do a lot more bullshit -->
-<!-- highlight connection -->
-
----
+----
 
 #### Why do startups fail?
 
 ```mermaid
 pie title
-  "Product-Market Fit" : 34
+  "Product-Market Fit ❗" : 34
   "Marketing" : 22
-  "Team" : 18
+  "Team ❗" : 18
   "Finance" : 16
-  "Tech" : 6
+  "Tech ❗" : 6
   "Operations" : 2
   "Legal" : 2
 ```
@@ -86,8 +80,9 @@ pie title
 https://www.failory.com/blog/startup-failure-rate#6-reasons-why-startups-fail
 </small></small>
 
+Note: numbers are not reliable, more of a hint
+PMF, team and tech are most impacted by my topic
 <!-- pre-render image -->
-<!-- highlight connection to topic -->
 
 ---
 
@@ -174,7 +169,7 @@ Note: generally good design advice. forces clean interfaces, thinking ahead
 
 <!-- add icons -->
 
----
+----
 
 ### Further reading
 
@@ -190,3 +185,11 @@ Note: generally good design advice. forces clean interfaces, thinking ahead
 ---
 
 ### Happy founding
+
+---
+
+### More?
+
+---
+
+### About trust
